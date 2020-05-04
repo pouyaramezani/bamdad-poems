@@ -2,5 +2,5 @@
   
   
 Unicode  
-ZERO WIDTH NON-JOINER   200C  
+ZERO WIDTH NON-JOINER --->  200C  
 should be consider and resolve

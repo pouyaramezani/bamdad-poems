@@ -129,5 +129,5 @@ dmypy.json
 .pyre/
 
 # added by me
-data/.DS_Store
+.DS_Store
 env_bamdad/
